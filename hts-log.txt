@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 May 2018 10:31:05 at http://rebellug.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rebellug.com -O1 "D:\RebelLUG\V1 Website\RebelLUG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:31:06	Warning: 	Moved Permanently for rebellug.com/
+10:31:06	Warning: 	File has moved from rebellug.com/ to http://rebellug.com/index.html
+10:36:26	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/1122654789.jpg" (from rebellug.com/index.html)
+10:36:26	Warning: 	Link rebellug.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+10:36:28	Warning: 	Retry after error -4 (Incorrect length (560412 Bytes, 661470 expected)) at link rebellug.com/files/theme/images/default-bg.jpg?1522820934 (from rebellug.com/files/main_style.css?1522820934)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/weebly/libraries/videojs/video-js.swf (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1522797043)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/938569086.png" (from rebellug.com/collaborations.html)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/717889963.png" (from rebellug.com/collaborations.html)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/2067455585.jpg" (from rebellug.com/collaborations.html)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/804550967.jpg" (from rebellug.com/collaborations.html)
+10:36:28	Error: 	"Not Found" (404) at link rebellug.com/"/uploads/8/2/1/0/82101198/background-images/328267571.jpg" (from rebellug.com/collaborations.html)
+10:37:42	Error: 	"Not Found" (404) at link rebellug.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+10:37:42	Error: 	"Not Found" (404) at link rebellug.com/payload.js (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+10:37:42	Error: 	"Not Found" (404) at link rebellug.com/POST (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+10:38:57	Error: 	"Not Found" (404) at link rebellug.com/news/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1522870812)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 21 seconds : 315 links scanned, 288 files written (17164467 bytes overall) [12517141 bytes received at 24984 bytes/sec], 6515549 bytes transferred using HTTP compression in 132 files, ratio 25%, 5.4 requests per connection
+(24 errors, 4 warnings, 0 messages)
