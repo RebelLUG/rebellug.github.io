@@ -1,2 +1,0 @@
-#9900cc default purple
-#8600b3 second purple
