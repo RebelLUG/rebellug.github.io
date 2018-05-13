@@ -2545,3 +2545,27 @@
 				}
 
 	}
+
+/* Member */
+.highcommand {
+    width: 300px;
+    height: 300px;
+}
+.member {
+    width: 200px;
+    height: 200px;
+}
+ul.horizontallogos li{
+    display: inline-block;
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+.highcommandmemberbio {
+    width: auto;
+    margin-left: 335px;
+}
+.memberbio {
+    width: auto;
+    margin-left: 235px;
+    min-height: 210px;
+}
