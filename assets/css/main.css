@@ -1397,6 +1397,12 @@
 			float: left;
 			margin: 0 2em 2em 0;
 		}
+		.image.right {
+			float: right;
+			margin: 0 0 2em 2m;
+            margin-left: 2em;
+            margin-bottom: 2em;
+		}
 
 /* List */
 
@@ -2548,24 +2554,31 @@
 
 /* Member */
 .highcommand {
-    width: 300px;
-    height: 300px;
+    width: 25%;
+    height: 25%;
 }
 .member {
-    width: 200px;
-    height: 200px;
+    width: 15%;
+    height: 15%;
 }
 ul.horizontallogos li{
     display: inline-block;
     margin-left: 1em;
-    margin-top: 0.5em;
+    margin-top: 1em;
 }
 .highcommandmemberbio {
     width: auto;
-    margin-left: 335px;
+    margin-left: 30%;
 }
 .memberbio {
     width: auto;
-    margin-left: 235px;
-    min-height: 215px;
+    margin-left: 15%;
+    min-height: 50%;
+}
+.sideblogimage {
+    width: 50%;
+}
+.image.center {
+    width: 100%;
+    margin-bottom: 2em;
 }
