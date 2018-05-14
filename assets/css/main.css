@@ -1538,51 +1538,65 @@
 				}
 
 				ul.social li a.fa-facebook {
-					background: #3c5a98;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-facebook:hover {
-						background: #4c6aa8;
+						background: #db831e ;
+					}
+				ul.social li a.fa-youtube {
+					background: #efa93b ;
+				}
+
+					ul.social li a.fa-youtube:hover {
+						background: #db831e ;
+					}
+				ul.social li a.fa-instagram {
+					background: #efa93b ; 
+				}
+
+					ul.social li a.fa-instagram:hover {
+						background: #db831e ;
 					}
 
 				ul.social li a.fa-twitter {
-					background: #2daae4;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-twitter:hover {
-						background: #3dbaf4;
+						background: #db831e ;
 					}
 
 				ul.social li a.fa-dribbble {
-					background: #c4376b;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-dribbble:hover {
-						background: #d4477b;
+						background: #db831e ;
 					}
 
 				ul.social li a.fa-linkedin {
-					background: #006599;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-linkedin:hover {
-						background: #1075a9;
+						background: #db831e ;
 					}
 
 				ul.social li a.fa-tumblr {
-					background: #2b4661;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-tumblr:hover {
-						background: #3b5671;
+						background: #db831e ;
 					}
 
 				ul.social li a.fa-google-plus {
-					background: #da2713;
+					background: #efa93b ;
 				}
 
 					ul.social li a.fa-google-plus:hover {
-						background: #ea3723;
+						background: #db831e ;
 					}
 
 	ol.default {
