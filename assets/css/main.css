@@ -1675,7 +1675,7 @@
 /* Banner */
 
 	#banner {
-		background: #ffffff url("../../images/groupshots/bw2017.jpg");
+		background: #ffffff url("../../images/groupshots/bw2018.jpg");
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -1698,6 +1698,27 @@
 				font-style: normal;
 				margin: 0;
 			}
+
+/* Slideshow */
+
+[data-slides] {
+	background-image: url(../../images/groupshots/bw2018); /* Default image. */
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+
+/* Use additional CSS to control the `height` of `[data-slides]`, like so: */
+
+.test { height: 300px; }
+@media all and (min-width: 48em) {
+	.test { height: 400px; }
+}
 
 /* Wrappers */
 
