@@ -42,3 +42,50 @@
                                 
 							</article>
                             </li>
+
+
+                            <li>
+							<article class="box post"><span class="image left member"><img src="images/profilepics/josh.jpg" alt="profile picture" /><ul class="horizontallogos">
+								<!--<li><a href="#" class="icon fa-twitter alt"target="_blank"><span class="label">Twitter</span></a></li>-->
+								<li ><a href="https://www.youtube.com/channel/UCnm_nTOHJg4VJ7c26tS8Okw" class="icon fa-youtube alt" ><span class="label" >Youtube</span></a></li>
+								<li><a href="https://www.instagram.com/brickmaster_productions/" class="icon fa-instagram alt"target="_blank"><span class="label">Instagram</span></a></li>
+								<!--<li><a href="https://www.flickr.com/photos/132542949@N05/" class="icon fa-flickr alt"target="_blank"><span class="label">Flickr</span></a></li>-->
+								<!--<li><a href="https://www.facebook.com/pg/legospencer" class="icon fa-facebook alt"target="_blank"><span class="label">Facebook</span></a></li>-->
+								<!--<li><a href="#" class="icon fa-github alt"target="_blank"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"target="_blank"><span class="label">Dribbble</span></a></li>-->
+                                </ul></span>
+
+                                <div class="memberbio">
+								<header>
+									<h3>BrickMaster Productions</h3>
+								</header>
+                                <p>Josh disappears for extended periods of time leading up to collaboration deadlines, but somehow is still one of the more responsible participants in terms of actually finishing.
+								</p>
+                                </div>
+                                
+							</article>
+                            </li>
+    
+
+
+                            <li>
+							<article class="box post"><span class="image left member"><img src="images/profilepics/legological-logoff1f.jpg" alt="profile picture" /><ul class="horizontallogos">
+								<!--<li><a href="#" class="icon fa-twitter alt"target="_blank"><span class="label">Twitter</span></a></li>-->
+								<li ><a href="https://www.youtube.com/channel/UC6YvZUWooSK2Gs5tkx6v05A" class="icon fa-youtube alt" ><span class="label" >Youtube</span></a></li>
+								<li><a href="https://www.instagram.com/legological/" class="icon fa-instagram alt"target="_blank"><span class="label">Instagram</span></a></li>
+								<!--<li><a href="https://www.flickr.com/photos/132542949@N05/" class="icon fa-flickr alt"target="_blank"><span class="label">Flickr</span></a></li>-->
+								<!--<li><a href="https://www.facebook.com/pg/legospencer" class="icon fa-facebook alt"target="_blank"><span class="label">Facebook</span></a></li>-->
+								<!--<li><a href="#" class="icon fa-github alt"target="_blank"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"target="_blank"><span class="label">Dribbble</span></a></li>-->
+                                </ul></span>
+
+                                <div class="memberbio">
+								<header>
+									<h3>LegoLogical</h3>
+								</header>
+                                <p>"Hello, my name is Joshua. Although not a frequent builder, I have high standards for his science-fiction builds. In particular, I like to make his builds as compact and detailed as possible." these are some more words to try and figure out why this is happening to these bios.
+								</p>
+                                </div>
+                                
+							</article>
+                            </li>
