@@ -1,0 +1,44 @@
+                            <li>
+							<article class="box post"><span class="image left member"><img src="images/profilepics/14724160918b9a.png" alt="profile picture" /><ul class="horizontallogos">
+								<!--<li><a href="#" class="icon fa-twitter alt"target="_blank"><span class="label">Twitter</span></a></li>-->
+								<li ><a href="https://www.youtube.com/user/Legosfan" class="icon fa-youtube alt" ><span class="label" >Youtube</span></a></li>
+								<!--<li><a href="https://www.instagram.com/daniel_barwegen/" class="icon fa-instagram alt"target="_blank"><span class="label">Instagram</span></a></li>-->
+								<li><a href="https://www.flickr.com/photos/trlegosfan/" class="icon fa-flickr alt"target="_blank"><span class="label">Flickr</span></a></li>
+								<!--<li><a href="https://www.facebook.com/pg/legospencer" class="icon fa-facebook alt"target="_blank"><span class="label">Facebook</span></a></li>-->
+								<!--<li><a href="#" class="icon fa-github alt"target="_blank"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"target="_blank"><span class="label">Dribbble</span></a></li>-->
+                                </ul></span>
+
+                                <div class="memberbio">
+								<header>
+									<h3>Legosfan</h3>
+								</header>
+                                <p>Sean, as it appears, is a jack of all trades. Not only has he made himself known for Halo builds, appearing in gaming magazines, he's also a notable rapper. 
+								</p>
+                                </div>
+                                
+							</article>
+                            </li>
+
+
+                            <li>
+							<article class="box post"><span class="image left member"><img src="images/profilepics/i2rdflf8-400x4000ac5.jpg" alt="profile picture" /><ul class="horizontallogos">
+								<li><a href="https://twitter.com/CBBricks/" class="icon fa-twitter alt"target="_blank"><span class="label">Twitter</span></a></li>
+								<li ><a href="https://www.youtube.com/user/maceprimus321" class="icon fa-youtube alt" ><span class="label" >Youtube</span></a></li>
+								<li><a href="https://www.instagram.com/cbbricks/" class="icon fa-instagram alt"target="_blank"><span class="label">Instagram</span></a></li>
+								<!--<li><a href="https://www.flickr.com/photos/132542949@N05/" class="icon fa-flickr alt"target="_blank"><span class="label">Flickr</span></a></li>-->
+								<li><a href="https://www.facebook.com/CBBricks/" class="icon fa-facebook alt"target="_blank"><span class="label">Facebook</span></a></li>
+								<!--<li><a href="#" class="icon fa-github alt"target="_blank"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"target="_blank"><span class="label">Dribbble</span></a></li>-->
+                                </ul></span>
+
+                                <div class="memberbio">
+								<header>
+									<h3>CBBricks</h3>
+								</header>
+                                <p>"What's up guys! It's Adam, aka CBBricks on YouTube, Instagram, and Twitter. I've been building with LEGO ever since I can remember, and my favorite theme is definitely Star Wars. However, I'm not afraid to branch out into other building genres such as gaming or replicas. My specialty is in vehicle based MOCs, but I also enjoy building popular scenes and large-scale bases."
+								</p>
+                                </div>
+                                
+							</article>
+                            </li>
