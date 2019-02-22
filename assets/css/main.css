@@ -2668,15 +2668,27 @@ ul.horizontallogos li{
     border-left: 1px solid #ccc;
 }
 .collabparagraph{
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    display:grid
 }
 .collabbyline{
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+    font-weight: bold;
 }
 .collablogos{
     display: block;
     margin-left: auto;
     margin-right: auto;
     max-height: 100px;
-    margin-bottom: 10px
+    margin-bottom: 25px
 }
+.collabitem{
+    min-height: 200px;
+}
+.collabbox {
+    padding-top: 0px;
+    padding-bottom: 2.75em;
+    padding-left: 1.75em;
+    padding-right: 1.75em;
+    border-bottom: solid 1px #ccc;
+    }
