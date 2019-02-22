@@ -2654,4 +2654,29 @@ ul.horizontallogos li{
     margin-top: 10px;
     border: 1px solid #efa93b;
 }
-test
+.collabvideo{
+    width: 450px;
+    height: 200px;
+    margin-left: 25px;
+    
+}
+.collabheader{
+    margin: 0px;
+    font-size: 1.5em;
+}
+.leftline{
+    border-left: 1px solid #ccc;
+}
+.collabparagraph{
+    margin-bottom: 0px
+}
+.collabbyline{
+    margin-bottom: 10px;
+}
+.collablogos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 100px;
+    margin-bottom: 10px
+}
