@@ -2692,3 +2692,8 @@ ul.horizontallogos li{
     padding-right: 1.75em;
     border-bottom: solid 1px #ccc;
     }
+.wallpaper {
+    border: 1px solid #ccc;
+    max-height: 800px;
+    padding: 5px;
+}
