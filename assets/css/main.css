@@ -2704,3 +2704,15 @@ ul.horizontallogos li{
     max-width: 50%;
     margin-bottom: 2%;
 }
+
+.storeitem{
+    min-height: 430px;
+}
+.storebox {
+    padding-top: 0px;
+    padding-bottom: 2.75em;
+    padding-left: 1.75em;
+    padding-right: 1.75em;
+    border-bottom: solid 1px #ccc;
+    }
+
