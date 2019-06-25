@@ -1,4 +1,4 @@
-                                    var myInfo = "<p>My Name is {{name}} and I live at {{street}} in {{city}}, {{state}}</p>";
+                                    var myInfo = "<p>My Nam is {{name}} and I live at {{street}} in {{city}}, {{state}}</p>";
                                         
                                     var template = Handlebars.compile(myInfo);
                                         
