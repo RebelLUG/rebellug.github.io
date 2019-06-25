@@ -2,6 +2,6 @@
                                         
                                     var template = Handlebars.compile(myInfo);
                                         
-                                    var data = template({name: "Spencer", street: "123 Main St", city: "Pittsburgh", state: "PA"});
+                                    var data = template({name: "Elijah", street: "123 Main St", city: "Pittsburgh", state: "PA"});
                                         
                                     document.getElementById("testData").innerHTML += data;
