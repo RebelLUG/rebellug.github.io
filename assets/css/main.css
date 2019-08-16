@@ -2797,3 +2797,39 @@ img {vertical-align: middle;}
 .storeimages {
     max-width: 650px;
 }
+.storeimages1 {
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.storevideo {
+    width: 60%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.buyoptions {
+    width: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    border: solid 1px #ccc;
+    margin-top: 40px;
+}
+.pricebutton {
+    display: inline-block;
+    width: 100px;
+    float: left;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+.paypalbutton {
+    display: inline-block;
+    width: 171px;
+    height: 47px;
+    float: right;
+    margin: 10px;
+}
