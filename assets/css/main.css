@@ -2811,7 +2811,7 @@ img {vertical-align: middle;}
     margin-right: auto
 }
 .buyoptions {
-    width: 320px;
+    width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -2821,17 +2821,16 @@ img {vertical-align: middle;}
 }
 .pricebutton {
     display: inline-block;
-    width: 100px;
     float: left;
-    margin-top: 18px;
-    margin-left: 20px;
+    font-size: 150%;
+    margin-left: 30px;
+    margin-top: 70px;
 }
 .paypalbutton {
     display: inline-block;
-    width: 171px;
-    height: 47px;
     float: right;
     margin: 10px;
+    margin-bottom: -10px;
 }
 .storebutton {
     margin-left: auto;
