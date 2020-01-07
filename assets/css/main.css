@@ -2814,8 +2814,8 @@ img {vertical-align: middle;}
     overflow: hidden;
     border: solid 1px #ccc;
     margin-top: 40px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 35%;
+    margin-right: 35%;
     width: auto;
     margin-bottom: 40px;
     
@@ -2834,7 +2834,8 @@ img {vertical-align: middle;}
     margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-    width: 300px;
+	width: 300px;
+	margin-bottom: 10px;
 }
 .storebutton {
     margin-left: auto;
