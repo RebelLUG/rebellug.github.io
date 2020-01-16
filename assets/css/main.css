@@ -2694,8 +2694,12 @@ ul.horizontallogos li{
     }
 .wallpaper {
     border: 1px solid #ccc;
-    max-height: 800px;
+	max-height: 800px;
+	max-width: 900px;
     padding: 5px;
+}
+.wallpapercaption {
+	margin-bottom: 5px;
 }
 .laceropeslogo{
     display: block;
