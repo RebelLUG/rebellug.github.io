@@ -5,6 +5,8 @@ function arrayToTable(tableData) {
         $(rowData).each(function (j, cellData) {
             if (j === 0) {
                 row.append($(`<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`));
+            } else if (i === 0) {
+                row.append($('<td><h1>'+cellData+'</h1></td>'));
             } else {
                 row.append($('<td>'+cellData+'</td>'));
             };
