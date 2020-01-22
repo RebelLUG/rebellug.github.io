@@ -3,7 +3,11 @@ function arrayToTable(tableData) {
     $(tableData).each(function (i, rowData) {
         let row = $('<tr></tr>');
         $(rowData).each(function (j, cellData) {
-            row.append($('<td>'+cellData+'</td>'));
+            if (j === 3) {
+                row.append($(`<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`));
+            } else {
+                row.append($('<td>'+cellData+'</td>'));
+            };
         });
         table.append(row);
     });
@@ -17,3 +21,7 @@ $.ajax({
         $("#ranks").append(arrayToTable(Papa.parse(ranks).data));
     }
 });
+
+if (cellData.endsWith(".png")) {
+    let banana = `<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`;
+}
