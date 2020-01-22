@@ -1,7 +1,7 @@
 function arrayToTable(tableData) {
-    var table = $('<table></table>');
+    let table = $('<table></table>');
     $(tableData).each(function (i, rowData) {
-        var row = $('<tr></tr>');
+        let row = $('<tr></tr>');
         $(rowData).each(function (j, cellData) {
             row.append($('<td>'+cellData+'</td>'));
         });
