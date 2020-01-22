@@ -12,8 +12,8 @@ function arrayToTable(tableData) {
 
 $.ajax({
     type: "GET",
-    url: "https://raw.githubusercontent.com/RebelLUG/rebellug.github.io/master/253rd/data.csv",
-    success: function (data) {
-        $("#ranks").append(arrayToTable(Papa.parse(data).data));
+    url: "https://raw.githubusercontent.com/RebelLUG/rebellug.github.io/master/253rd/ranks.csv",
+    success: function (ranks) {
+        $("#ranks").append(arrayToTable(Papa.parse(ranks).data));
     }
 });
