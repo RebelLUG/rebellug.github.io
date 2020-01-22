@@ -4,11 +4,11 @@ function arrayToTable(tableData) {
         let row = $('<tr></tr>');
         $(rowData).each(function (j, cellData) {
             if (i === 0) {
-                row.append($('<td><h1>'+cellData+'</h1></td>'));
+                row.append($('<td class="ranks"><h3>'+cellData+'</h3></td>'));
             } else if (j === 0) {
-                row.append($(`<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`));
+                row.append($(`<td class="ranks"><img src="images/profilepics/`+cellData+`" class="ProfilePic253rd"></td>`));
             } else {
-                row.append($('<td>'+cellData+'</td>'));
+                row.append($('<td class="ranks">'+cellData+'</td>'));
             };
         });
         table.append(row);

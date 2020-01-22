@@ -2846,7 +2846,7 @@ img {vertical-align: middle;}
     margin-right: auto;
     width: 15%;
 }
-.rloc_logo{
+.rloc_logo {
     max-width: 350px;
     margin-top: 8px;
 }
@@ -2857,5 +2857,12 @@ img {vertical-align: middle;}
     margin: 10px;
 }
 
+.ranks {
+	width: 200px;
+}
 
+.ProfilePic253rd {
+	width: 75px;
+	height: 75px;
 
+}
