@@ -3,10 +3,10 @@ function arrayToTable(tableData) {
     $(tableData).each(function (i, rowData) {
         let row = $('<tr></tr>');
         $(rowData).each(function (j, cellData) {
-            if (j === 0) {
-                row.append($(`<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`));
-            } else if (i === 0) {
+            if (i === 0) {
                 row.append($('<td><h1>'+cellData+'</h1></td>'));
+            } else if (j === 0) {
+                row.append($(`<img src="images/profilepics/`+cellData+`" class="253rdProfilePic">`));
             } else {
                 row.append($('<td>'+cellData+'</td>'));
             };
