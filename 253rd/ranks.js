@@ -1,14 +1,16 @@
 function arrayToTable(tableData) {
-    let table = $('<table></table>');
+    let table = $('<table class="ranks"></table>');
     $(tableData).each(function (i, rowData) {
-        let row = $('<tr></tr>');
+        let row = $('<tr class="ranks"></tr>');
         $(rowData).each(function (j, cellData) {
-            if (i === 0) {
-                row.append($('<td class="ranks"><h3>'+cellData+'</h3></td>'));
+            if (j === 0 && i === 0) {
+                row.append($('<th class="ranks"></th>'));
             } else if (j === 0) {
-                row.append($(`<td class="ranks"><img src="images/profilepics/`+cellData+`" class="ProfilePic253rd"></td>`));
+                row.append($(`<td><img src="images/profilepics/`+cellData+`" class="ranks"></td>`));
+            } else if (i === 0) {
+                row.append($('<th class"ranks"><h3 class="ranks">'+cellData+'</h3></th>'));
             } else {
-                row.append($('<td class="ranks">'+cellData+'</td>'));
+                row.append($('<td class="ranks"><div class="ranks">'+cellData+'</div></td>'));
             };
         });
         table.append(row);
