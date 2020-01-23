@@ -2875,15 +2875,13 @@ th.ranks {
 }
 
 h3.ranks {
-	margin-top: 7px;
-	margin-bottom: 7px;
+	margin: 7px;
 	text-align: left;
-	margin-left: 5px;
 }
 
 table.ranks {
 	border: 1px solid #ccc;
-	width: 750px;
+	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 150%;

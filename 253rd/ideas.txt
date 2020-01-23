@@ -1,0 +1,1 @@
+Design some models that get automatically generated next to people's ranks on the website. Maybe make them downloadable as overlays for people's online clout
