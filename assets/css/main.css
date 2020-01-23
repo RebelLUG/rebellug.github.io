@@ -2877,6 +2877,7 @@ th.ranks {
 h3.ranks {
 	margin: 7px;
 	text-align: left;
+	font-size: 150%
 }
 
 table.ranks {
@@ -2884,6 +2885,6 @@ table.ranks {
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 150%;
+	font-size: 125%;
 	margin-bottom: 0px;
 }
