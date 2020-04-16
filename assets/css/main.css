@@ -2888,3 +2888,35 @@ table.ranks {
 	font-size: 125%;
 	margin-bottom: 0px;
 }
+
+div.ranks {
+	border-left: 1px solid #ccc;
+	padding-left: 5px;
+}
+
+img.members {
+	width: 75px;
+	height: 75px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 8px;
+}
+
+th.members {
+	width: 75px;
+}
+
+h3.members {
+	margin: 7px;
+	text-align: left;
+	font-size: 150%
+}
+
+table.members {
+	border: 1px solid #ccc;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 125%;
+	margin-bottom: 0px;
+}
