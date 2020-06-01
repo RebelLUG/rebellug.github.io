@@ -2920,3 +2920,8 @@ table.members {
 	font-size: 125%;
 	margin-bottom: 0px;
 }
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
